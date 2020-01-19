@@ -1,2 +1,2 @@
 # GitHub-scenarij
-Projekt na Veleriu
+Studiram na Fakultetu informatike u Rijeci
